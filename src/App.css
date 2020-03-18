@@ -1,0 +1,15 @@
+.App{
+  background-attachment: fixed;
+  background-position: center;
+  background-color: white;
+  padding-top: 4.5rem;
+  min-height: 100vh;
+}
+
+.navbar{
+  background-color:#F52B39 !important;
+}
+
+.scrolled{
+  position: fixed;
+}
